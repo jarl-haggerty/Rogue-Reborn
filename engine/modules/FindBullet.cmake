@@ -61,6 +61,7 @@ find_path(BULLET_INCLUDE_DIR NAMES btBulletCollisionCommon.h
     ${ROGUE_REBORN_DIR}/physics/dep/bullet-2.77/src
     /usr/local/Cellar/bullet/2.77/include/bullet
     /usr/include/bullet
+    /usr/local/include/bullet
     ${BULLET_ROOT}/include
     ${BULLET_ROOT}/src
 )
